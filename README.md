@@ -1,5 +1,5 @@
 # Finding MIMO 
-## AvGFP Log Fluorescence Prediction for Different Numbers of Mutations 
+## AvGFP Log Fluorescence Prediction for Protein Sequences with various Mutations 
 
 This repository contains the code and data for a project focused on predicting the log fluorescence signal levels of the Aequorea victoria Green Fluorescent Protein (avGFP) based on sequence mutations.
 
